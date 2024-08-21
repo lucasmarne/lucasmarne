@@ -1,5 +1,5 @@
-### 👋 Olá! Me chamo Lucas Marne
-🤖 Sou UX Designer, trabalho com chatbots e quero me tornar desenvolvedor Front-end.
+### Olá! Me chamo Lucas Marne 👋
+Sou UX Designer, trabalho com chatbots e quero me tornar desenvolvedor Front-end.
 <br>
 <br>
 <div>
