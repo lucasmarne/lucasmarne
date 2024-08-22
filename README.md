@@ -1,27 +1,17 @@
 ### Olá! Me chamo Lucas Marne 👋
-Sou UX Designer, trabalho com chatbots e quero me tornar desenvolvedor Front-end.
+#### 🤖 Sou UX Designer, desenho interações em chatbots e quero me tornar desenvolvedor Front-end.
+💼 Trabalho na [Blip.ai](https://www.blip.ai/)
 <br>
 <br>
+📝 <b>Estudando:</b> `.js`, `.html`, `.css`, `Git`<br>
+🧠 <b>Experiência:</b> +3 anos desenvolvimento de jornadas em chatbots.<br>
+📍 <b>Moro em:</b> Joinville/SC<br>
+<br>
+#### Fale comigo 👇
 <div>
-  <h3>Sobre mim:</h3>
-  <p>Formado em Design Industrial. </p>
+  <a href="https://instagram.com/lucas_marne" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucasmarne411@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucasmarne" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-<section>
-<h3>💻 Technologies and Tools</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
-</section>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!---
-lucasmarne/lucasmarne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+<br>
