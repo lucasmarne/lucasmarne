@@ -4,7 +4,7 @@
 <br>
 <br>
 📝 <b>Estudando:</b> `.js`, `.html`, `.css`, `Git`<br>
-🧠 <b>Experiência:</b> +3 anos desenvolvimento de jornadas em chatbots.<br>
+🧠 <b>Experiência:</b> +3 anos desenvolvendo jornadas em chatbots.<br>
 📍 <b>Moro em:</b> Joinville/SC<br>
 <br>
 #### Fale comigo 👇
