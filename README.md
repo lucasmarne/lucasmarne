@@ -13,8 +13,3 @@
   <a href = "mailto:lucasmarne411@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="lucasmarne411@gmail.com"></a>
   <a href="https://www.linkedin.com/in/lucasmarne" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="lucasmarne"></a>   
 </div>
-<br>
-<br>
-<p align="center">
-  <img src="https://tenor.com/pt-PT/view/ron-swanson-nick-offerman-thumbs-up-right-on-good-job-gif-25371744" width="350">
-</p>
